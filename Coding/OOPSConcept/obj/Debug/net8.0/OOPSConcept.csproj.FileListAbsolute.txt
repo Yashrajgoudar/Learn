@@ -1,0 +1,14 @@
+E:\Learn\Coding\OOPSConcept\bin\Debug\net8.0\OOPSConcept.exe
+E:\Learn\Coding\OOPSConcept\bin\Debug\net8.0\OOPSConcept.deps.json
+E:\Learn\Coding\OOPSConcept\bin\Debug\net8.0\OOPSConcept.runtimeconfig.json
+E:\Learn\Coding\OOPSConcept\bin\Debug\net8.0\OOPSConcept.dll
+E:\Learn\Coding\OOPSConcept\bin\Debug\net8.0\OOPSConcept.pdb
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.AssemblyInfoInputs.cache
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.AssemblyInfo.cs
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.csproj.CoreCompileInputs.cache
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.dll
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\refint\OOPSConcept.dll
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.pdb
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\OOPSConcept.genruntimeconfig.cache
+E:\Learn\Coding\OOPSConcept\obj\Debug\net8.0\ref\OOPSConcept.dll

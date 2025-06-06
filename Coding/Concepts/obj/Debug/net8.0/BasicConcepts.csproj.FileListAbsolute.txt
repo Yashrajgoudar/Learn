@@ -1,0 +1,14 @@
+E:\Learn\Coding\Concepts\bin\Debug\net8.0\BasicConcepts.exe
+E:\Learn\Coding\Concepts\bin\Debug\net8.0\BasicConcepts.deps.json
+E:\Learn\Coding\Concepts\bin\Debug\net8.0\BasicConcepts.runtimeconfig.json
+E:\Learn\Coding\Concepts\bin\Debug\net8.0\BasicConcepts.dll
+E:\Learn\Coding\Concepts\bin\Debug\net8.0\BasicConcepts.pdb
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.AssemblyInfoInputs.cache
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.AssemblyInfo.cs
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.csproj.CoreCompileInputs.cache
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.dll
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\refint\BasicConcepts.dll
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.pdb
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\BasicConcepts.genruntimeconfig.cache
+E:\Learn\Coding\Concepts\obj\Debug\net8.0\ref\BasicConcepts.dll

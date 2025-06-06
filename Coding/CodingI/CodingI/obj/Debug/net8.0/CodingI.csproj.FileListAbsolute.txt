@@ -1,0 +1,15 @@
+E:\Learn\Coding\CodingI\CodingI\bin\Debug\net8.0\CodingI.exe
+E:\Learn\Coding\CodingI\CodingI\bin\Debug\net8.0\CodingI.deps.json
+E:\Learn\Coding\CodingI\CodingI\bin\Debug\net8.0\CodingI.runtimeconfig.json
+E:\Learn\Coding\CodingI\CodingI\bin\Debug\net8.0\CodingI.dll
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.AssemblyInfoInputs.cache
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.AssemblyInfo.cs
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.csproj.CoreCompileInputs.cache
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.dll
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\refint\CodingI.dll
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.pdb
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.genruntimeconfig.cache
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\ref\CodingI.dll
+E:\Learn\Coding\CodingI\CodingI\bin\Debug\net8.0\CodingI.pdb
+E:\Learn\Coding\CodingI\CodingI\obj\Debug\net8.0\CodingI.sourcelink.json
