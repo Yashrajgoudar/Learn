@@ -2,7 +2,7 @@
 {
     public class ArraySorting
     {
-        //Selection Sort
+        //Selection Sort Time Complexity: O(n^2) Space Complexity: O(1)
         public int[] SelectionSort(int[] arr)
         {
             for (int i = 0; i < arr.Length - 1; i++)
@@ -23,7 +23,7 @@
             return arr;
         }
 
-        //Bubble Sort
+        //Bubble Sort Time Complexity: O(n^2) Space Complexity: O(1)
         public int[] BubbleSort(int[] arr)
         {
             for (int i = 0; i < arr.Length - 1; i++)
@@ -43,7 +43,7 @@
             return arr;
         }
 
-        //Insertion Sort
+        //Insertion Sort Time Complexity: O(n^2) Space Complexity: O(1)
         public int[] InsertionSort(int[] arr)
         {
             for (int i = 1; i < arr.Length; i++)
@@ -152,6 +152,34 @@
                 Sort(arr, 0, arr.Length - 1);
                 return arr;
             }
+        }
+
+        //Counting Sort is a non-comparison based sorting algorithm that is efficient for sorting integers within a known range.
+        //Time Complexity: O(n + k) where n is the number of elements in the input array and k is the range of the input values. Space Complexity: O(k) for the count array.
+        public int[] CountingSorting(int[] arr)
+        {
+            int n = arr.Length;
+            int maxValue = 0;
+            for(int i = 0; i < n; i++)
+            {
+                maxValue = Math.Max(maxValue, arr[i]);
+            }
+            int[] countArray = new int[maxValue + 1];
+            for(int i = 0; i < n; i++)
+            {
+                countArray[arr[i]]++;
+            }
+            for(int i = 1; i < maxValue+1; i++)
+            {
+                countArray[i] += countArray[i - 1];
+            }
+            int[] outputArray=new int[n];
+            for(int i = n-1; i >=0; i--)
+            {
+                outputArray[countArray[arr[i]] - 1] = arr[i];
+                countArray[arr[i]]--;
+            }
+            return outputArray;
         }
     }
 }

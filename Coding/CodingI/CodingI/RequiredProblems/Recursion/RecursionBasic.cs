@@ -31,7 +31,7 @@
             {
                 return 1;
             }
-            return n + Factorial(n - 1);
+            return n + SumOfNNumbers(n - 1);
         }
     }
 }

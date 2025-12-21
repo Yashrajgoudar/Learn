@@ -35,7 +35,8 @@ namespace HelloWorld
 
         public int[] SortOperation(string sortName)
         {
-            int[] arr = { 64, 25, 12, 22, 11 };
+            //int[] arr = { 64, 25, 12, 22, 11 };
+            int[] arr = { 4, 2, 2, 8, 3, 3, 1 };
             switch (sortName)
             {
                 case "Selection":
@@ -50,6 +51,8 @@ namespace HelloWorld
                 case "QuickSort":
                     var quickSort = new ArraySorting.QuickSorting();
                     return quickSort.QuickSort(arr);
+                case "Counting":
+                    return _sort.CountingSorting(arr);
                 default:
                     return [];
             }
@@ -206,17 +209,18 @@ namespace HelloWorld
             }
             return;
         }
-        public static void Main(string[] args)
+
+        public static void main(string[] args)
         {
             Program program = new Program();
 
             //int search = program.SearchOperation("Linear");
             //Console.WriteLine(search);
 
-            //int[] sort = program.SortOperation("QuickSort");
-            //Console.WriteLine("Sorted Array: " + string.Join(", ", sort));
+            int[] sort = program.SortOperation("Counting");
+            Console.WriteLine("Sorted Array: " + string.Join(", ", sort));
 
-            program.CallRecursion("KnightsTour");
+            //program.CallRecursion("KnightsTour");
         }
     }
 }

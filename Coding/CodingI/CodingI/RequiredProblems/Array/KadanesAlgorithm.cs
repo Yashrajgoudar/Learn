@@ -62,7 +62,7 @@
 
         public static void main(string[] args)
         {
-            int[] arr = { -2, 2};
+            int[] arr = { 1,2,3,4};
             KadanesAlgorithm algorithm = new KadanesAlgorithm();
             algorithm.PrintAllSubArrays(arr);
             Console.WriteLine(algorithm.BruteForceMaxSumSubArray(arr));
