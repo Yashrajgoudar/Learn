@@ -1,6 +1,20 @@
 ﻿namespace CodingI.SolveQuestions.Arrays
 {
-    public class Q2MaximumAndMinimumArray
+    /*Question
+        
+        Given an array of integers arr[], the task is to find the maximum and minimum elements in the array using the minimum number of comparisons.
+
+        Examples:
+
+        Input: arr[] = [3, 5, 4, 1, 9]
+        Output: [1, 9]
+        Explanation: The minimum element is 1, and the maximum element is 9.
+
+        Input: arr[] = [22, 14, 8, 17, 35, 3]
+        Output: [3, 35] 
+        Explanation: The minimum element is 3, and the maximum element is 35.
+     */
+    public class Q1_MaximumAndMinimumArray
     {
         //This is a Naive solution and uses and 2 * (n - 1) comparisons
         public (int max, int min) FindMaximumAndMinimum(int[] arr)
@@ -93,7 +107,7 @@
         public static void main(string[] args)
         {
             int[] arr = {3,6,2,8,4,5};
-            Q2MaximumAndMinimumArray maximumAndMinimumArray = new Q2MaximumAndMinimumArray();
+            Q1_MaximumAndMinimumArray maximumAndMinimumArray = new Q1_MaximumAndMinimumArray();
             var result = maximumAndMinimumArray.FindMaximumAndMinimum(arr);
             var optimizedResult = maximumAndMinimumArray.OptimizedFindMaximumAndMinimum(arr);
             Console.WriteLine(result);

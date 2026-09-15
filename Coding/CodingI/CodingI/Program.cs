@@ -217,10 +217,10 @@ namespace HelloWorld
             //int search = program.SearchOperation("Linear");
             //Console.WriteLine(search);
 
-            int[] sort = program.SortOperation("Counting");
-            Console.WriteLine("Sorted Array: " + string.Join(", ", sort));
+            //int[] sort = program.SortOperation("Counting");
+            //Console.WriteLine("Sorted Array: " + string.Join(", ", sort));
 
-            //program.CallRecursion("KnightsTour");
+            program.CallRecursion("FibonacciSeries");
         }
     }
 }

@@ -27,7 +27,7 @@
                 }
                 int maxHeight = Math.Min(lmax, rmax);
                 if (maxHeight > arr[i])
-                    height += Math.Min(lmax, rmax) - arr[i];
+                    height += maxHeight - arr[i];
             }
             return height;
         }

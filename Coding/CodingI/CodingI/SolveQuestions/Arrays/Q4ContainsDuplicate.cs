@@ -18,6 +18,7 @@
             return false;
         }
 
+        //Navie Approach has O(nlogn) Time Complexity
         public bool ContainsDuplicateOptimized(int[] arr)
         {
             Array.Sort(arr);
@@ -28,6 +29,22 @@
                     return true;
                 }
             }
+            return false;
+        }
+
+        //Best Approach has O(n) Time Complexity and Space Complexity O(n)
+        public bool ContainsDuplicateHashSetApproach(int[] nums)
+        {
+            HashSet<int> set = new HashSet<int>();
+
+            foreach (int num in nums)
+            {
+                if (set.Contains(num))
+                    return true;
+
+                set.Add(num);
+            }
+
             return false;
         }
 

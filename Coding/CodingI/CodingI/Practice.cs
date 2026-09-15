@@ -65,7 +65,7 @@ namespace CodingI
     }
     public class Program
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             IDocument doc1 = DocumentFactory.GetDoc("word");
             doc1.Print();

@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "E:\\Learn\\Coding\\CodingI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\arrays\\q1_maximumandminimumarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\arrays\\q1_maximumandminimumarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q14_count_palindromic_subsequences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q14_count_palindromic_subsequences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q11_longest_palindromic_substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q11_longest_palindromic_substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q12_palindromic_substrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q12_palindromic_substrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q13_next_permutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q13_next_permutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q10_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q10_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\arrays\\q18_pairsuminsortedandrotatedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\arrays\\q18_pairsuminsortedandrotatedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\arrays\\q20_mergeoverlappingintervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\arrays\\q20_mergeoverlappingintervals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\strings\\q9_longestrepeatingcharacterreplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\strings\\q9_longestrepeatingcharacterreplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\arrays\\q17_containerwithmostwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\arrays\\q17_containerwithmostwater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|e:\\learn\\coding\\codingi\\codingi\\solvequestions\\arrays\\q2_arrayreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5903F93-3E6F-465B-B82D-A5837BE6EB4A}|CodingI\\CodingI.csproj|solutionrelative:codingi\\solvequestions\\arrays\\q2_arrayreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,125 +23,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practice.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\Practice.cs",
-              "RelativeDocumentMoniker": "CodingI\\Practice.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\Practice.cs",
-              "RelativeToolTip": "CodingI\\Practice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "Q1_MaximumAndMinimumArray.cs",
+              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q1_MaximumAndMinimumArray.cs",
+              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Arrays\\Q1_MaximumAndMinimumArray.cs",
+              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q1_MaximumAndMinimumArray.cs",
+              "RelativeToolTip": "CodingI\\SolveQuestions\\Arrays\\Q1_MaximumAndMinimumArray.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T18:49:25.67Z",
+              "WhenOpened": "2026-08-19T02:09:34.224Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Q14_Count_Palindromic_Subsequences.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q14_Count_Palindromic_Subsequences.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q14_Count_Palindromic_Subsequences.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q14_Count_Palindromic_Subsequences.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q14_Count_Palindromic_Subsequences.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAcAAAAAAAAAA==",
+              "Title": "Q2_ArrayReverse.cs",
+              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q2_ArrayReverse.cs",
+              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Arrays\\Q2_ArrayReverse.cs",
+              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q2_ArrayReverse.cs",
+              "RelativeToolTip": "CodingI\\SolveQuestions\\Arrays\\Q2_ArrayReverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T09:21:53.811Z",
+              "WhenOpened": "2026-08-19T02:08:47.934Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Q13_Next_Permutation.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q13_Next_Permutation.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q13_Next_Permutation.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q13_Next_Permutation.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q13_Next_Permutation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T07:08:08.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Q12_Palindromic_Substrings.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q12_Palindromic_Substrings.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q12_Palindromic_Substrings.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q12_Palindromic_Substrings.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q12_Palindromic_Substrings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T07:58:25.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Q11_Longest_Palindromic_Substring.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q11_Longest_Palindromic_Substring.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q11_Longest_Palindromic_Substring.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q11_Longest_Palindromic_Substring.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q11_Longest_Palindromic_Substring.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:43:17.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Q20_MergeOverlappingIntervals.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q20_MergeOverlappingIntervals.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Arrays\\Q20_MergeOverlappingIntervals.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q20_MergeOverlappingIntervals.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Arrays\\Q20_MergeOverlappingIntervals.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:15:27.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Q18_PairSumInSortedAndRotatedArray.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q18_PairSumInSortedAndRotatedArray.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Arrays\\Q18_PairSumInSortedAndRotatedArray.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q18_PairSumInSortedAndRotatedArray.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Arrays\\Q18_PairSumInSortedAndRotatedArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:13:28.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Q10_GroupAnagrams.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q10_GroupAnagrams.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q10_GroupAnagrams.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q10_GroupAnagrams.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q10_GroupAnagrams.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAkwFoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T16:09:26.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Q9_LongestRepeatingCharacterReplacement.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q9_LongestRepeatingCharacterReplacement.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Strings\\Q9_LongestRepeatingCharacterReplacement.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Strings\\Q9_LongestRepeatingCharacterReplacement.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Strings\\Q9_LongestRepeatingCharacterReplacement.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAqwI0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T15:15:43.453Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Q17_ContainerWithMostWater.cs",
-              "DocumentMoniker": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q17_ContainerWithMostWater.cs",
-              "RelativeDocumentMoniker": "CodingI\\SolveQuestions\\Arrays\\Q17_ContainerWithMostWater.cs",
-              "ToolTip": "E:\\Learn\\Coding\\CodingI\\CodingI\\SolveQuestions\\Arrays\\Q17_ContainerWithMostWater.cs",
-              "RelativeToolTip": "CodingI\\SolveQuestions\\Arrays\\Q17_ContainerWithMostWater.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T10:20:45.878Z"
             }
           ]
         }

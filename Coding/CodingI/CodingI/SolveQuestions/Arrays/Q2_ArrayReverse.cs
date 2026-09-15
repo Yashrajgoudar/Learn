@@ -1,6 +1,6 @@
 ﻿namespace CodingI.SolveQuestions.Arrays
 {
-    public class Q1ArrayReverse
+    public class Q2_ArrayReverse
     {
         //Naive Approach Time Complexity: O(n);  Space Complexity: O(n)
         public int[] ReverseArray(int[] arr)
@@ -34,7 +34,7 @@
         public static void main(string[] args)
         {
             int[] arr = { 3, 6, 2, 8, 4, 5 };
-            Q1ArrayReverse arrayReverse = new Q1ArrayReverse();
+            Q2_ArrayReverse arrayReverse = new Q2_ArrayReverse();
             Console.WriteLine(string.Join(", ", arrayReverse.ReverseArray(arr)));
             Console.WriteLine(string.Join(", ", arrayReverse.OptimizedReverseArray(arr)));
         }

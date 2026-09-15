@@ -30,22 +30,13 @@ namespace CodingI.SolveQuestions.Arrays
         //Optimized Solution with Time Complexity O(n)
         public static int MaxProfitOptimized(int[] prices)
         {
-            int minPrice=int.MaxValue;
+            int minPrice = prices[0];
             int maxProfit=0;
             foreach (int price in prices)
             {
-                if (price<minPrice)
-                {
-                    minPrice = price;
-                }
-                else
-                {
-                    int profit=price-minPrice;
-                    if (profit > maxProfit)
-                    {
-                        maxProfit = profit;
-                    }
-                }
+                minPrice = Math.Min(minPrice, price);
+
+                maxProfit = Math.Max(maxProfit, price - minPrice);
             }
             return maxProfit;
         }

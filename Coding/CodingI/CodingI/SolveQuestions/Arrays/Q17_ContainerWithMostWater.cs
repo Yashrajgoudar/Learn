@@ -2,8 +2,8 @@
 {
     public class Q17_ContainerWithMostWater
     {
-        // Brute Force Approach to find the maximum area of water that can be contained
-        // Time Complexity: O(n^2), Space Complexity: O(1)
+        // Two Pointer Approach to find the maximum area of water that can be contained
+        // Time Complexity: O(n), Space Complexity: O(1)
         public static int MaxAreaTwoPointer(int[] arr)
         {
             int left = 0;
@@ -25,8 +25,8 @@
             }
             return maxArea;
         }
-        // Two Pointer Approach to find the maximum area of water that can be contained
-        // Time Complexity: O(n), Space Complexity: O(1)
+        // Brute Force Approach to find the maximum area of water that can be contained
+        // Time Complexity: O(n^2), Space Complexity: O(1)
         public static int MaxAreaBruteForce(int[] arr)
         {
             int n = arr.Length;
@@ -36,7 +36,7 @@
                 for(int j = i + 1; j < n; j++)
                 {
                     int h = Math.Min(arr[i], arr[j]);
-                    int w = j - 1;
+                    int w = j - i;
                     int are = h * w;
                     if(are > maxArea)
                     {

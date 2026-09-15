@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPSConcept")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a222389c3f91f6d69f2c9367e8853d0abe5bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5a55ee4d1d228ab97ec1c555fe86f46a2f0738")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPSConcept")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPSConcept")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
